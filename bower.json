@@ -1,0 +1,22 @@
+{
+  "name": "angular-todo",
+  "description": "angularjs todo project",
+  "main": "index.js",
+  "authors": [
+    "codeinstitute/jeffblankenship"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jsblankenship44/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.7",
+    "angular-route": "^1.6.7",
+    "bootstrap": "^3.3.7"
+  }
+}
