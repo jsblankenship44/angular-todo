@@ -1,0 +1,19 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "angularjs todo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsblankenship44/angular-todo.git"
+  },
+  "author": "codeinstitute/jeffblankenship",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsblankenship44/angular-todo/issues"
+  },
+  "homepage": "https://github.com/jsblankenship44/angular-todo#readme"
+}
