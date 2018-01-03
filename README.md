@@ -63,3 +63,11 @@ This app uses JSON Web Tokens to authenticate users and keep them logged in.  Al
 5. Once **http-server** is installed run ```http-server -c-1```
 6. The project will now run on [localhost](http://127.0.0.1:8080)
 7. Make changes to the code and if you think it belongs in here then just submit a pull request
+
+```javascript
+function greet(target){
+    console.log("Hello, " + target + "!");
+}
+
+greet("World");
+```
